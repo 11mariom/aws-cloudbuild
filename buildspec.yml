@@ -1,0 +1,7 @@
+version: 0.2
+phases:
+  run:
+    runtime-versions:
+      python: 3.9
+    commands:
+      - python main.py
