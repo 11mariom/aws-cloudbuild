@@ -114,5 +114,5 @@ resource "aws_codebuild_project" "example" {
     }
   }
 
-  source_version = "master"
+  source_version = "main"
 }
